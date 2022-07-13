@@ -23,7 +23,7 @@ __________________________
 ### Known Issues:
 - DisplayLink driver is currently not working. There does exist Linux versions of this driver, but are currently only "officially" supported for Ubuntu (which itself is based off of Debian, so I strongly suspect that I can get this working - I'm just not quite there yet.
 __________________________
-### How can I contact you to report a bug or issue? Or just to ask a question?
-- *STRONGLY PREFERRED METHOD*: Click on the "Issues" tab (https://github.com/IT-Jake/PlebOS/issues). You may be prompted to sign up for a free account - it's free, so just do it. This will help me better keep track of questions and issues as well as help others who may have the same question or issue as you.
+### How can I contact you to report a bug, issue, or feature request? Or just to ask a question?
+- *STRONGLY PREFERRED METHOD*: Click on the "Issues" tab (https://github.com/IT-Jake/PlebOS/issues). You may be prompted to sign up for a free account - it's free, so just do it. This will help me better keep track of questions and issues as well as help others who may have the same question or issue as you. No question, issue, or request is too big or small to ask - please, I actively encourage discussion on this page.
 - Alternatively, you can send me an email to jake@itjake.com - Please be warned though that I rarely check this email.
 - Friends/Family? Y'all can text me if you got my digits.
