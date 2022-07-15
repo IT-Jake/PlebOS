@@ -21,6 +21,8 @@ Further customizations (specifically rebranding any MX Linux/AntiX/Debian brandi
 One has a layout with a "Windows taskbar"-type of setup ; the other has a "Mac dock"-style. Personally, I'm far more of a Windows person than Mac, but I still prefer the Mac-style layout better. I will probably continue to support both versions for a bit until I'm able to gauge better which is preferred by the people whose opinion actually matters though: you.
 __________________________
 ### Known Issues:
+- Only currently works as a Live USB/ISO. I have previously had it working post-installation, but somehow managed to break something along the way. It might just be me though. Let me know if you have any successes post-installation (if you're willing to try on either a bare-metal system or a VM).
+
 - DisplayLink driver is currently not working. There does exist Linux versions of this driver, but are currently only "officially" supported for Ubuntu (which itself is based off of Debian, so I strongly suspect that I can get this working - I'm just not quite there yet.
 __________________________
 ### How can I contact you to report a bug, issue, or feature request? Or just to ask a question?
