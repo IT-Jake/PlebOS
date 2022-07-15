@@ -11,7 +11,7 @@ Yes and no. Technically it's a distro based off of a distro forked from a distro
 - AntiX : https://antixlinux.com/
 
 ### Q: Is it stable enough to use as a "daily driver" OS? 
-Yes. I certainly do. Again, this is not a hobby project built from the ground up from scratch - I have simply crammed together a bunch of customizations and packages into already known-working, well-tested, stable work of others who are far more talented and skilled than I. Standing on the shoulders of giants.
+It will be very soon. I already am daily driving it (although an entirely different version than what you see here). Once I get the current bug fixed of it not working post installation (only currently seems to work as a Live USB/ISO), it'll be fully ready for primetime as a daily driver OS regardless of the state of further ongoing customizations. Again, this is not a hobby project built from the ground up from scratch - I have simply crammed together a bunch of customizations and packages into already known-working, well-tested, stable work of others who are far more talented and skilled than I. Standing on the shoulders of giants.
 
 ### Looks cool, but the whole thing looks like you just ripped off MX Linux.
 That's not a question - And I basically did :) 
